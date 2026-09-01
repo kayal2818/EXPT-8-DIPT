@@ -98,7 +98,9 @@ plt.show()
 
 
 <img width="675" height="580" alt="image" src="https://github.com/user-attachments/assets/4139f991-626c-480b-a8a5-28a1899d7076" />
+
 ## Result
+
 Thus, image segmentation is successfully performed using Global Thresholding, Adaptive Thresholding, and Otsu's Thresholding techniques in OpenCV.
 
 
